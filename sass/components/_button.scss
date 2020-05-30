@@ -13,7 +13,7 @@
 
     &:hover {
         transform: translateY(-.3rem);
-        box-shadow: 0 1rem 2rem $box-shadow-button;
+        box-shadow: 0 1rem 2rem $box-shadow-small-2;
 
         &::after {
             transform: scaleX(1.4) scaleY(1.6);
@@ -23,7 +23,7 @@
 
     &:active {
         transform: translateY(-.1rem);
-        box-shadow: 0 .5rem 1rem $box-shadow-button;
+        box-shadow: 0 .5rem 1rem $box-shadow-small-2;
     }
 
     &--white {

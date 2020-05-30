@@ -13,6 +13,8 @@ $color-grey-light-1: #f7f7f7;
 $color-grey-light-2: #eee;
 
 $color-grey-dark: #777;
+$color-grey-dark-2: #999;
+
 $color-white: #fff;
 $color-black: #000;
 
@@ -26,14 +28,12 @@ $border-radius-smaller: .2rem;
 $border-radius-big: 10rem;
 
 //SHADOW
+$box-shadow-smallest: rgba($color-black, .1);
 $box-shadow-small: rgba($color-black, .15);
 $box-shadow-small-2: rgba($color-black, .2);
 $box-shadow-medium: rgba($color-black, .4);
 $box-shadow-big: rgba($color-black, .5); 
-$box-shadow-button: rgba($color-black, .2); 
 $text-shadow: rgba($color-black, .2s);
-$box-shadow-story: rgba($color-black, .1);
-
 
 // GRID
 $grid-width: 114rem;
